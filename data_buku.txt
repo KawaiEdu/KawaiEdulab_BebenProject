@@ -1,0 +1,50 @@
+[
+    {
+        "ID": "7",
+        "Judul": "ppnis",
+        "Penulis": "qila",
+        "Tahun Terbit": "1899"
+    },
+    {
+        "ID": "7",
+        "Judul": "ppnis",
+        "Penulis": "qila",
+        "Tahun Terbit": "1899"
+    },
+    {
+        "ID": "mimi",
+        "Judul": "88",
+        "Penulis": "qil",
+        "Tahun Terbit": "090"
+    },
+    {
+        "ID": "mimi",
+        "Judul": "88",
+        "Penulis": "qil",
+        "Tahun Terbit": "090"
+    },
+    {
+        "id_buku": "1234",
+        "judul_buku": "Kucing melompat lompat",
+        "tahunbuku": "2021",
+        "nama_penerbit": "Danish"
+    },
+    {
+        "id_buku": "4567",
+        "judul_buku": "Tutor yang tefitnah",
+        "tahunbuku": "2023",
+        "nama_penerbit": "Aqil"
+    },
+    {
+        "id_buku": "1234",
+        "judul_buku": "Percobaan",
+        "tahunbuku": "2022",
+        "nama_penerbit": "Gatau"
+    },
+    {
+        "id_buku": "1234",
+        "judul_buku": "Dicoba",
+        "tahunbuku": "2022",
+        "nama_penerbit": "Aqil"
+    }
+]
