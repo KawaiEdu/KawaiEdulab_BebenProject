@@ -1,6 +1,6 @@
 import os
 
-projekt_name ="slymd"
+projekt_name ="SMART CANTEEN"
 folders =[projekt_name] 
 files = {
     f"{projekt_name}/main.py": "# main.py\n\nprint('Program siap dijalankan!')\n",
